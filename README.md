@@ -12,7 +12,7 @@
 
 ![image](https://github.com/KaterynaD/Insurance-Data-Warehouse/assets/16999229/a90b7f03-452d-41a9-a9c4-493fda31ef47)
 
-Data Warehouse Modeling (few base star schemas)
+# Data Warehouse Modeling (few base star schemas)
 
 ![image](https://github.com/KaterynaD/Insurance-Data-Warehouse/assets/16999229/173a1ccf-f954-4485-8b80-2dffa87a3668)
 
